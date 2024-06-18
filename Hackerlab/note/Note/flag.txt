@@ -1,0 +1,3 @@
+exiftool * | grep -i camera
+
+HLB2024{H1DEC4MN0T3@#}

@@ -1,0 +1,2 @@
+e trouvé : 61717
+Message déchiffré : HLB2024{public_Key_is_also_important_in_rsa_prr9687456}

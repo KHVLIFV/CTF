@@ -1,0 +1,7 @@
+method: DELETE /login.php --> 
+body {
+	"email":"61239yKJc3r74UKRXJAalGN99wOqVo"
+	"pass" : "admin@hackerlab.bj",
+}
+
+Congratz, Here is the flag: HLB2024{We3ird_4u7h_meth0d_riGhT_dude?}

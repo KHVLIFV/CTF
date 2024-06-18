@@ -1,0 +1,13 @@
+sherlock 0x4z3t0
+
+github : https://www.github.com/0x4z3t0
+
+dans les commit on a trouvé le payload: hlb2024icsshell.php
+
+on a exécuter avec la vulnérabilté php : PHP Type Juggling
+
+on a obtenu un shell web et enfin la commande: cat /.flag*
+
+nous a permis de trouver le flag:
+
+HLB2024{Defacement_by_ICS_Infiltrators_858966735))}

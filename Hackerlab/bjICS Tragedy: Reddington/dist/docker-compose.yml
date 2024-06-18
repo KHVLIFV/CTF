@@ -1,0 +1,6 @@
+version: '3.8'
+services:
+  lacagepy:
+    build: ./app
+    ports:
+      - "27005:1337"
